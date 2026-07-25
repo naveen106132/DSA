@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Naveen__2006?theme=tokyonight&show=graph,recent&v=1784952778628" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Naveen__2006?theme=tokyonight&show=graph,recent&v=1784952787704" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -18,9 +18,11 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
+| 47 | [Permutations II](./Array/Permutations%20II/) | Medium |
 | 49 | [Group Anagrams](./Array/Group%20Anagrams/) | Medium |
 | 75 | [Sort Colors](./Array/Sort%20Colors/) | Medium |
 | 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
+| 108 | [Convert Sorted Array to Binary Search Tree](./Array/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/) | Easy |
 | 122 | [Best Time to Buy and Sell Stock II](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/) | Medium |
 | 137 | [Single Number II](./Array/Single%20Number%20II/) | Medium |
 | 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
@@ -31,6 +33,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 303 | [Range Sum Query - Immutable](./Array/Range%20Sum%20Query%20-%20Immutable/) | Easy |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
+| 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
 | 881 | [Boats to Save People](./Array/Boats%20to%20Save%20People/) | Medium |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1528 | [Shuffle String](./Array/Shuffle%20String/) | Easy |
@@ -47,6 +50,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 290 | [Word Pattern](./Hash%20Table/Word%20Pattern/) | Easy |
+| 409 | [Longest Palindrome](./Hash%20Table/Longest%20Palindrome/) | Easy |
 | 771 | [Jewels and Stones](./Hash%20Table/Jewels%20and%20Stones/) | Easy |
 
 </details>
@@ -58,6 +62,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 24 | [Swap Nodes in Pairs](./Linked%20List/Swap%20Nodes%20in%20Pairs/) | Medium |
 | 92 | [Reverse Linked List II](./Linked%20List/Reverse%20Linked%20List%20II/) | Medium |
 
 </details>
@@ -70,6 +75,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
+| 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
+| 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
+| 70 | [Climbing Stairs](./Math/Climbing%20Stairs/) | Easy |
 | 343 | [Integer Break](./Math/Integer%20Break/) | Medium |
 | 405 | [Convert a Number to Hexadecimal](./Math/Convert%20a%20Number%20to%20Hexadecimal/) | Easy |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](./Math/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/) | Easy |
@@ -98,7 +106,19 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
+| 257 | [Binary Tree Paths](./String/Binary%20Tree%20Paths/) | Easy |
 | 2390 | [Removing Stars From a String](./String/Removing%20Stars%20From%20a%20String/) | Medium |
+
+</details>
+
+
+### Tree
+<details>
+<summary>Click to expand Tree problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 100 | [Same Tree](./Tree/Same%20Tree/) | Easy |
 
 </details>
 
@@ -112,6 +132,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
 | 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
 | 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
+| 345 | [Reverse Vowels of a String](./Two%20Pointers/Reverse%20Vowels%20of%20a%20String/) | Easy |
 | 392 | [Is Subsequence](./Two%20Pointers/Is%20Subsequence/) | Easy |
 | 443 | [String Compression](./Two%20Pointers/String%20Compression/) | Medium |
 

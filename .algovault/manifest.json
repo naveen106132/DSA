@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T04:12:58.626Z",
+  "lastUpdated": "2026-07-25T04:13:07.704Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -703,6 +703,218 @@
               "runtime": "20 ms",
               "memory": "81 MB",
               "githubPath": "LeetCode/Array/Contains Duplicate II/"
+            }
+          }
+        },
+        "reverse-vowels-of-a-string": {
+          "questionId": "345",
+          "title": "Reverse Vowels of a String",
+          "titleSlug": "reverse-vowels-of-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952787703,
+              "runtime": "5 ms",
+              "memory": "47.3 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Vowels of a String/"
+            }
+          }
+        },
+        "longest-palindrome": {
+          "questionId": "409",
+          "title": "Longest Palindrome",
+          "titleSlug": "longest-palindrome",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952787703,
+              "runtime": "10 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Palindrome/"
+            }
+          }
+        },
+        "convert-sorted-array-to-binary-search-tree": {
+          "questionId": "108",
+          "title": "Convert Sorted Array to Binary Search Tree",
+          "titleSlug": "convert-sorted-array-to-binary-search-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Tree",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952787703,
+              "runtime": "0 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Array/Convert Sorted Array to Binary Search Tree/"
+            }
+          }
+        },
+        "transpose-matrix": {
+          "questionId": "867",
+          "title": "Transpose Matrix",
+          "titleSlug": "transpose-matrix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952787704,
+              "runtime": "0 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Transpose Matrix/"
+            }
+          }
+        },
+        "binary-tree-paths": {
+          "questionId": "257",
+          "title": "Binary Tree Paths",
+          "titleSlug": "binary-tree-paths",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Backtracking",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952787704,
+              "runtime": "1 ms",
+              "memory": "44 MB",
+              "githubPath": "LeetCode/String/Binary Tree Paths/"
+            }
+          }
+        },
+        "climbing-stairs": {
+          "questionId": "70",
+          "title": "Climbing Stairs",
+          "titleSlug": "climbing-stairs",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Memoization"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952787704,
+              "runtime": "0 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Math/Climbing Stairs/"
+            }
+          }
+        },
+        "sqrtx": {
+          "questionId": "69",
+          "title": "Sqrt(x)",
+          "titleSlug": "sqrtx",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952787704,
+              "runtime": "1 ms",
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/Math/Sqrt(x)/"
+            }
+          }
+        },
+        "swap-nodes-in-pairs": {
+          "questionId": "24",
+          "title": "Swap Nodes in Pairs",
+          "titleSlug": "swap-nodes-in-pairs",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952787704,
+              "runtime": "0 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Linked List/Swap Nodes in Pairs/"
+            }
+          }
+        },
+        "permutations-ii": {
+          "questionId": "47",
+          "title": "Permutations II",
+          "titleSlug": "permutations-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952787704,
+              "runtime": "3 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Permutations II/"
+            }
+          }
+        },
+        "add-binary": {
+          "questionId": "67",
+          "title": "Add Binary",
+          "titleSlug": "add-binary",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Bit Manipulation",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952787704,
+              "runtime": "2 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/Math/Add Binary/"
+            }
+          }
+        },
+        "same-tree": {
+          "questionId": "100",
+          "title": "Same Tree",
+          "titleSlug": "same-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952787704,
+              "runtime": "0 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Tree/Same Tree/"
             }
           }
         }
