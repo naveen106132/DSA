@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Naveen__2006?theme=tokyonight&show=graph,recent&v=1784952801462" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Naveen__2006?theme=tokyonight&show=graph,recent&v=1784952810631" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -52,12 +52,24 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Backtracking
+<details>
+<summary>Click to expand Backtracking problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 113 | [Path Sum II](./Backtracking/Path%20Sum%20II/) | Medium |
+
+</details>
+
+
 ### Dynamic Programming
 <details>
 <summary>Click to expand Dynamic Programming problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 95 | [Unique Binary Search Trees II](./Dynamic%20Programming/Unique%20Binary%20Search%20Trees%20II/) | Medium |
 | 124 | [Binary Tree Maximum Path Sum](./Dynamic%20Programming/Binary%20Tree%20Maximum%20Path%20Sum/) | Hard |
 
 </details>
@@ -84,6 +96,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 24 | [Swap Nodes in Pairs](./Linked%20List/Swap%20Nodes%20in%20Pairs/) | Medium |
 | 92 | [Reverse Linked List II](./Linked%20List/Reverse%20Linked%20List%20II/) | Medium |
+| 109 | [Convert Sorted List to Binary Search Tree](./Linked%20List/Convert%20Sorted%20List%20to%20Binary%20Search%20Tree/) | Medium |
+| 114 | [Flatten Binary Tree to Linked List](./Linked%20List/Flatten%20Binary%20Tree%20to%20Linked%20List/) | Medium |
 | 116 | [Populating Next Right Pointers in Each Node](./Linked%20List/Populating%20Next%20Right%20Pointers%20in%20Each%20Node/) | Medium |
 | 117 | [Populating Next Right Pointers in Each Node II](./Linked%20List/Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II/) | Medium |
 
@@ -97,9 +111,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
+| 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
+| 62 | [Unique Paths](./Math/Unique%20Paths/) | Medium |
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
 | 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
 | 70 | [Climbing Stairs](./Math/Climbing%20Stairs/) | Easy |
+| 89 | [Gray Code](./Math/Gray%20Code/) | Medium |
+| 96 | [Unique Binary Search Trees](./Math/Unique%20Binary%20Search%20Trees/) | Medium |
 | 343 | [Integer Break](./Math/Integer%20Break/) | Medium |
 | 405 | [Convert a Number to Hexadecimal](./Math/Convert%20a%20Number%20to%20Hexadecimal/) | Easy |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](./Math/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/) | Easy |
@@ -115,6 +133,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 94 | [Binary Tree Inorder Traversal](./Stack/Binary%20Tree%20Inorder%20Traversal/) | Easy |
 | 144 | [Binary Tree Preorder Traversal](./Stack/Binary%20Tree%20Preorder%20Traversal/) | Easy |
 
 </details>
@@ -141,7 +160,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 98 | [Validate Binary Search Tree](./Tree/Validate%20Binary%20Search%20Tree/) | Medium |
+| 99 | [Recover Binary Search Tree](./Tree/Recover%20Binary%20Search%20Tree/) | Medium |
 | 100 | [Same Tree](./Tree/Same%20Tree/) | Easy |
+| 102 | [Binary Tree Level Order Traversal](./Tree/Binary%20Tree%20Level%20Order%20Traversal/) | Medium |
+| 103 | [Binary Tree Zigzag Level Order Traversal](./Tree/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/) | Medium |
+| 107 | [Binary Tree Level Order Traversal II](./Tree/Binary%20Tree%20Level%20Order%20Traversal%20II/) | Medium |
 
 </details>
 

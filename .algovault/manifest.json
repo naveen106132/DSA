@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T04:13:21.460Z",
+  "lastUpdated": "2026-07-25T04:13:30.629Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1166,6 +1166,283 @@
               "runtime": "0 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Linked List/Populating Next Right Pointers in Each Node/"
+            }
+          }
+        },
+        "flatten-binary-tree-to-linked-list": {
+          "questionId": "114",
+          "title": "Flatten Binary Tree to Linked List",
+          "titleSlug": "flatten-binary-tree-to-linked-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Stack",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952810629,
+              "runtime": "0 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Linked List/Flatten Binary Tree to Linked List/"
+            }
+          }
+        },
+        "path-sum-ii": {
+          "questionId": "113",
+          "title": "Path Sum II",
+          "titleSlug": "path-sum-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Backtracking",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952810629,
+              "runtime": "1 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Backtracking/Path Sum II/"
+            }
+          }
+        },
+        "convert-sorted-list-to-binary-search-tree": {
+          "questionId": "109",
+          "title": "Convert Sorted List to Binary Search Tree",
+          "titleSlug": "convert-sorted-list-to-binary-search-tree",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Divide and Conquer",
+            "Tree",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952810629,
+              "runtime": "0 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Linked List/Convert Sorted List to Binary Search Tree/"
+            }
+          }
+        },
+        "binary-tree-level-order-traversal-ii": {
+          "questionId": "107",
+          "title": "Binary Tree Level Order Traversal II",
+          "titleSlug": "binary-tree-level-order-traversal-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952810629,
+              "runtime": "1 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Tree/Binary Tree Level Order Traversal II/"
+            }
+          }
+        },
+        "binary-tree-zigzag-level-order-traversal": {
+          "questionId": "103",
+          "title": "Binary Tree Zigzag Level Order Traversal",
+          "titleSlug": "binary-tree-zigzag-level-order-traversal",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952810629,
+              "runtime": "1 ms",
+              "memory": "43.6 MB",
+              "githubPath": "LeetCode/Tree/Binary Tree Zigzag Level Order Traversal/"
+            }
+          }
+        },
+        "binary-tree-level-order-traversal": {
+          "questionId": "102",
+          "title": "Binary Tree Level Order Traversal",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952810629,
+              "runtime": "1 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Tree/Binary Tree Level Order Traversal/"
+            }
+          }
+        },
+        "recover-binary-search-tree": {
+          "questionId": "99",
+          "title": "Recover Binary Search Tree",
+          "titleSlug": "recover-binary-search-tree",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952810629,
+              "runtime": "1 ms",
+              "memory": "46.2 MB",
+              "githubPath": "LeetCode/Tree/Recover Binary Search Tree/"
+            }
+          }
+        },
+        "gray-code": {
+          "questionId": "89",
+          "title": "Gray Code",
+          "titleSlug": "gray-code",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952810629,
+              "runtime": "5 ms",
+              "memory": "53.5 MB",
+              "githubPath": "LeetCode/Math/Gray Code/"
+            }
+          }
+        },
+        "permutation-sequence": {
+          "questionId": "60",
+          "title": "Permutation Sequence",
+          "titleSlug": "permutation-sequence",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952810629,
+              "runtime": "1 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Math/Permutation Sequence/"
+            }
+          }
+        },
+        "unique-paths": {
+          "questionId": "62",
+          "title": "Unique Paths",
+          "titleSlug": "unique-paths",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Combinatorics"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952810629,
+              "runtime": "0 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Math/Unique Paths/"
+            }
+          }
+        },
+        "validate-binary-search-tree": {
+          "questionId": "98",
+          "title": "Validate Binary Search Tree",
+          "titleSlug": "validate-binary-search-tree",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952810629,
+              "runtime": "0 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/Tree/Validate Binary Search Tree/"
+            }
+          }
+        },
+        "unique-binary-search-trees": {
+          "questionId": "96",
+          "title": "Unique Binary Search Trees",
+          "titleSlug": "unique-binary-search-trees",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Tree",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952810629,
+              "runtime": "0 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Math/Unique Binary Search Trees/"
+            }
+          }
+        },
+        "unique-binary-search-trees-ii": {
+          "questionId": "95",
+          "title": "Unique Binary Search Trees II",
+          "titleSlug": "unique-binary-search-trees-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Dynamic Programming",
+            "Backtracking",
+            "Tree",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952810629,
+              "runtime": "3 ms",
+              "memory": "52.1 MB",
+              "githubPath": "LeetCode/Dynamic Programming/Unique Binary Search Trees II/"
+            }
+          }
+        },
+        "binary-tree-inorder-traversal": {
+          "questionId": "94",
+          "title": "Binary Tree Inorder Traversal",
+          "titleSlug": "binary-tree-inorder-traversal",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952810629,
+              "runtime": "0 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/Stack/Binary Tree Inorder Traversal/"
             }
           }
         }
