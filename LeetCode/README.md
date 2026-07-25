@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Naveen__2006?theme=tokyonight&show=graph,recent&v=1784952820091" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Naveen__2006?theme=tokyonight&show=graph,recent&v=1784952831705" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -20,8 +20,20 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
 | 47 | [Permutations II](./Array/Permutations%20II/) | Medium |
 | 49 | [Group Anagrams](./Array/Group%20Anagrams/) | Medium |
+| 59 | [Spiral Matrix II](./Array/Spiral%20Matrix%20II/) | Medium |
+| 63 | [Unique Paths II](./Array/Unique%20Paths%20II/) | Medium |
+| 68 | [Text Justification](./Array/Text%20Justification/) | Hard |
+| 73 | [Set Matrix Zeroes](./Array/Set%20Matrix%20Zeroes/) | Medium |
+| 74 | [Search a 2D Matrix](./Array/Search%20a%202D%20Matrix/) | Medium |
 | 75 | [Sort Colors](./Array/Sort%20Colors/) | Medium |
+| 78 | [Subsets](./Array/Subsets/) | Medium |
+| 79 | [Word Search](./Array/Word%20Search/) | Medium |
+| 80 | [Remove Duplicates from Sorted Array II](./Array/Remove%20Duplicates%20from%20Sorted%20Array%20II/) | Medium |
+| 81 | [Search in Rotated Sorted Array II](./Array/Search%20in%20Rotated%20Sorted%20Array%20II/) | Medium |
+| 84 | [Largest Rectangle in Histogram](./Array/Largest%20Rectangle%20in%20Histogram/) | Hard |
+| 85 | [Maximal Rectangle](./Array/Maximal%20Rectangle/) | Hard |
 | 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
+| 90 | [Subsets II](./Array/Subsets%20II/) | Medium |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](./Array/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/) | Medium |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](./Array/Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal/) | Medium |
 | 108 | [Convert Sorted Array to Binary Search Tree](./Array/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/) | Easy |
@@ -85,6 +97,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 76 | [Minimum Window Substring](./Hash%20Table/Minimum%20Window%20Substring/) | Hard |
 | 126 | [Word Ladder II](./Hash%20Table/Word%20Ladder%20II/) | Hard |
 | 127 | [Word Ladder](./Hash%20Table/Word%20Ladder/) | Hard |
 | 290 | [Word Pattern](./Hash%20Table/Word%20Pattern/) | Easy |
@@ -157,6 +170,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
+| 71 | [Simplify Path](./String/Simplify%20Path/) | Medium |
+| 72 | [Edit Distance](./String/Edit%20Distance/) | Medium |
+| 91 | [Decode Ways](./String/Decode%20Ways/) | Medium |
 | 97 | [Interleaving String](./String/Interleaving%20String/) | Medium |
 | 115 | [Distinct Subsequences](./String/Distinct%20Subsequences/) | Hard |
 | 131 | [Palindrome Partitioning](./String/Palindrome%20Partitioning/) | Medium |

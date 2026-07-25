@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T04:13:40.089Z",
+  "lastUpdated": "2026-07-25T04:13:51.704Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1688,6 +1688,309 @@
               "runtime": "3 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/String/Interleaving String/"
+            }
+          }
+        },
+        "decode-ways": {
+          "questionId": "91",
+          "title": "Decode Ways",
+          "titleSlug": "decode-ways",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952831703,
+              "runtime": "1 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/String/Decode Ways/"
+            }
+          }
+        },
+        "subsets-ii": {
+          "questionId": "90",
+          "title": "Subsets II",
+          "titleSlug": "subsets-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952831703,
+              "runtime": "7 ms",
+              "memory": "44.1 MB",
+              "githubPath": "LeetCode/Array/Subsets II/"
+            }
+          }
+        },
+        "maximal-rectangle": {
+          "questionId": "85",
+          "title": "Maximal Rectangle",
+          "titleSlug": "maximal-rectangle",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Stack",
+            "Matrix",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952831703,
+              "runtime": "25 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Array/Maximal Rectangle/"
+            }
+          }
+        },
+        "largest-rectangle-in-histogram": {
+          "questionId": "84",
+          "title": "Largest Rectangle in Histogram",
+          "titleSlug": "largest-rectangle-in-histogram",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952831703,
+              "runtime": "68 ms",
+              "memory": "60.7 MB",
+              "githubPath": "LeetCode/Array/Largest Rectangle in Histogram/"
+            }
+          }
+        },
+        "search-in-rotated-sorted-array-ii": {
+          "questionId": "81",
+          "title": "Search in Rotated Sorted Array II",
+          "titleSlug": "search-in-rotated-sorted-array-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952831703,
+              "runtime": "0 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Array/Search in Rotated Sorted Array II/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-array-ii": {
+          "questionId": "80",
+          "title": "Remove Duplicates from Sorted Array II",
+          "titleSlug": "remove-duplicates-from-sorted-array-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952831703,
+              "runtime": "0 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array II/"
+            }
+          }
+        },
+        "word-search": {
+          "questionId": "79",
+          "title": "Word Search",
+          "titleSlug": "word-search",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "String",
+            "Backtracking",
+            "Depth-First Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952831703,
+              "runtime": "145 ms",
+              "memory": "41.5 MB",
+              "githubPath": "LeetCode/Array/Word Search/"
+            }
+          }
+        },
+        "subsets": {
+          "questionId": "78",
+          "title": "Subsets",
+          "titleSlug": "subsets",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952831703,
+              "runtime": "0 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Array/Subsets/"
+            }
+          }
+        },
+        "minimum-window-substring": {
+          "questionId": "76",
+          "title": "Minimum Window Substring",
+          "titleSlug": "minimum-window-substring",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952831703,
+              "runtime": "3 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Hash Table/Minimum Window Substring/"
+            }
+          }
+        },
+        "search-a-2d-matrix": {
+          "questionId": "74",
+          "title": "Search a 2D Matrix",
+          "titleSlug": "search-a-2d-matrix",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952831703,
+              "runtime": "0 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Array/Search a 2D Matrix/"
+            }
+          }
+        },
+        "unique-paths-ii": {
+          "questionId": "63",
+          "title": "Unique Paths II",
+          "titleSlug": "unique-paths-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952831703,
+              "runtime": "0 ms",
+              "memory": "41.6 MB",
+              "githubPath": "LeetCode/Array/Unique Paths II/"
+            }
+          }
+        },
+        "spiral-matrix-ii": {
+          "questionId": "59",
+          "title": "Spiral Matrix II",
+          "titleSlug": "spiral-matrix-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952831703,
+              "runtime": "0 ms",
+              "memory": "41.1 MB",
+              "githubPath": "LeetCode/Array/Spiral Matrix II/"
+            }
+          }
+        },
+        "edit-distance": {
+          "questionId": "72",
+          "title": "Edit Distance",
+          "titleSlug": "edit-distance",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952831703,
+              "runtime": "5 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/String/Edit Distance/"
+            }
+          }
+        },
+        "set-matrix-zeroes": {
+          "questionId": "73",
+          "title": "Set Matrix Zeroes",
+          "titleSlug": "set-matrix-zeroes",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952831704,
+              "runtime": "1 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Array/Set Matrix Zeroes/"
+            }
+          }
+        },
+        "simplify-path": {
+          "questionId": "71",
+          "title": "Simplify Path",
+          "titleSlug": "simplify-path",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952831704,
+              "runtime": "4 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/String/Simplify Path/"
+            }
+          }
+        },
+        "text-justification": {
+          "questionId": "68",
+          "title": "Text Justification",
+          "titleSlug": "text-justification",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952831704,
+              "runtime": "2 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Array/Text Justification/"
             }
           }
         }
