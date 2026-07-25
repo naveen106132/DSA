@@ -1,0 +1,291 @@
+{
+  "version": "3.0.0",
+  "lastUpdated": "2026-07-25T04:12:40.969Z",
+  "platforms": {
+    "leetcode": {
+      "submissions": {
+        "string-compression": {
+          "questionId": "443",
+          "title": "String Compression",
+          "titleSlug": "string-compression",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952760969,
+              "runtime": "1 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Two Pointers/String Compression/"
+            }
+          }
+        },
+        "valid-palindrome": {
+          "questionId": "125",
+          "title": "Valid Palindrome",
+          "titleSlug": "valid-palindrome",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952760969,
+              "runtime": "131 ms",
+              "memory": "48.4 MB",
+              "githubPath": "LeetCode/Two Pointers/Valid Palindrome/"
+            }
+          }
+        },
+        "boats-to-save-people": {
+          "questionId": "881",
+          "title": "Boats to Save People",
+          "titleSlug": "boats-to-save-people",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952760969,
+              "runtime": "20 ms",
+              "memory": "56.3 MB",
+              "githubPath": "LeetCode/Array/Boats to Save People/"
+            }
+          }
+        },
+        "minimum-size-subarray-sum": {
+          "questionId": "209",
+          "title": "Minimum Size Subarray Sum",
+          "titleSlug": "minimum-size-subarray-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952760969,
+              "runtime": "1 ms",
+              "memory": "69.4 MB",
+              "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
+            }
+          }
+        },
+        "reverse-string": {
+          "questionId": "344",
+          "title": "Reverse String",
+          "titleSlug": "reverse-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952760969,
+              "runtime": "0 ms",
+              "memory": "48.3 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse String/"
+            }
+          }
+        },
+        "maximum-ice-cream-bars": {
+          "questionId": "1833",
+          "title": "Maximum Ice Cream Bars",
+          "titleSlug": "maximum-ice-cream-bars",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting",
+            "Counting Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952760969,
+              "runtime": "38 ms",
+              "memory": "83.9 MB",
+              "githubPath": "LeetCode/Array/Maximum Ice Cream Bars/"
+            }
+          }
+        },
+        "powx-n": {
+          "questionId": "50",
+          "title": "Pow(x, n)",
+          "titleSlug": "powx-n",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952760969,
+              "runtime": "0 ms",
+              "memory": "48.3 MB",
+              "githubPath": "LeetCode/Math/Pow(x, n)/"
+            }
+          }
+        },
+        "length-of-last-word": {
+          "questionId": "58",
+          "title": "Length of Last Word",
+          "titleSlug": "length-of-last-word",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952760969,
+              "runtime": "0 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/String/Length of Last Word/"
+            }
+          }
+        },
+        "single-number-ii": {
+          "questionId": "137",
+          "title": "Single Number II",
+          "titleSlug": "single-number-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952760969,
+              "runtime": "6 ms",
+              "memory": "46.2 MB",
+              "githubPath": "LeetCode/Array/Single Number II/"
+            }
+          }
+        },
+        "best-time-to-buy-and-sell-stock-ii": {
+          "questionId": "122",
+          "title": "Best Time to Buy and Sell Stock II",
+          "titleSlug": "best-time-to-buy-and-sell-stock-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952760969,
+              "runtime": "0 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock II/"
+            }
+          }
+        },
+        "sort-colors": {
+          "questionId": "75",
+          "title": "Sort Colors",
+          "titleSlug": "sort-colors",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952760969,
+              "runtime": "3 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Array/Sort Colors/"
+            }
+          }
+        },
+        "integer-break": {
+          "questionId": "343",
+          "title": "Integer Break",
+          "titleSlug": "integer-break",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952760969,
+              "runtime": "0 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Math/Integer Break/"
+            }
+          }
+        },
+        "find-the-index-of-the-first-occurrence-in-a-string": {
+          "questionId": "28",
+          "title": "Find the Index of the First Occurrence in a String",
+          "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "String Matching"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952760969,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
+            }
+          }
+        },
+        "group-anagrams": {
+          "questionId": "49",
+          "title": "Group Anagrams",
+          "titleSlug": "group-anagrams",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952760969,
+              "runtime": "7 ms",
+              "memory": "49.8 MB",
+              "githubPath": "LeetCode/Array/Group Anagrams/"
+            }
+          }
+        },
+        "valid-parentheses": {
+          "questionId": "20",
+          "title": "Valid Parentheses",
+          "titleSlug": "valid-parentheses",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952760969,
+              "runtime": "159 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/String/Valid Parentheses/"
+            }
+          }
+        }
+      },
+      "username": "Naveen__2006"
+    }
+  }
+}
