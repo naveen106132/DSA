@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Naveen__2006?theme=tokyonight&show=graph,recent&v=1784952864561" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Naveen__2006?theme=tokyonight&show=graph,recent&v=1784952876720" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -18,6 +18,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 4 | [Median of Two Sorted Arrays](./Array/Median%20of%20Two%20Sorted%20Arrays/) | Hard |
+| 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
+| 16 | [3Sum Closest](./Array/3Sum%20Closest/) | Medium |
 | 18 | [4Sum](./Array/4Sum/) | Medium |
 | 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
 | 31 | [Next Permutation](./Array/Next%20Permutation/) | Medium |
@@ -29,6 +31,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 40 | [Combination Sum II](./Array/Combination%20Sum%20II/) | Medium |
 | 41 | [First Missing Positive](./Array/First%20Missing%20Positive/) | Hard |
 | 42 | [Trapping Rain Water](./Array/Trapping%20Rain%20Water/) | Hard |
+| 45 | [Jump Game II](./Array/Jump%20Game%20II/) | Medium |
 | 46 | [Permutations](./Array/Permutations/) | Medium |
 | 47 | [Permutations II](./Array/Permutations%20II/) | Medium |
 | 48 | [Rotate Image](./Array/Rotate%20Image/) | Medium |
@@ -41,6 +44,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 59 | [Spiral Matrix II](./Array/Spiral%20Matrix%20II/) | Medium |
 | 63 | [Unique Paths II](./Array/Unique%20Paths%20II/) | Medium |
 | 64 | [Minimum Path Sum](./Array/Minimum%20Path%20Sum/) | Medium |
+| 66 | [Plus One](./Array/Plus%20One/) | Easy |
 | 68 | [Text Justification](./Array/Text%20Justification/) | Hard |
 | 73 | [Set Matrix Zeroes](./Array/Set%20Matrix%20Zeroes/) | Medium |
 | 74 | [Search a 2D Matrix](./Array/Search%20a%202D%20Matrix/) | Medium |
@@ -77,6 +81,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 318 | [Maximum Product of Word Lengths](./Array/Maximum%20Product%20of%20Word%20Lengths/) | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
+| 720 | [Longest Word in Dictionary](./Array/Longest%20Word%20in%20Dictionary/) | Medium |
 | 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
 | 881 | [Boats to Save People](./Array/Boats%20to%20Save%20People/) | Medium |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
@@ -128,8 +133,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
 | 290 | [Word Pattern](./Hash%20Table/Word%20Pattern/) | Easy |
+| 387 | [First Unique Character in a String](./Hash%20Table/First%20Unique%20Character%20in%20a%20String/) | Easy |
 | 409 | [Longest Palindrome](./Hash%20Table/Longest%20Palindrome/) | Easy |
+| 451 | [Sort Characters By Frequency](./Hash%20Table/Sort%20Characters%20By%20Frequency/) | Medium |
+| 726 | [Number of Atoms](./Hash%20Table/Number%20of%20Atoms/) | Hard |
 | 771 | [Jewels and Stones](./Hash%20Table/Jewels%20and%20Stones/) | Easy |
+| 2283 | [Check if Number Has Equal Digit Count and Digit Value](./Hash%20Table/Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/) | Easy |
 
 </details>
 
@@ -207,6 +216,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 10 | [Regular Expression Matching](./String/Regular%20Expression%20Matching/) | Hard |
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 22 | [Generate Parentheses](./String/Generate%20Parentheses/) | Medium |
+| 32 | [Longest Valid Parentheses](./String/Longest%20Valid%20Parentheses/) | Hard |
 | 38 | [Count and Say](./String/Count%20and%20Say/) | Medium |
 | 44 | [Wildcard Matching](./String/Wildcard%20Matching/) | Hard |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
@@ -219,6 +229,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 131 | [Palindrome Partitioning](./String/Palindrome%20Partitioning/) | Medium |
 | 132 | [Palindrome Partitioning II](./String/Palindrome%20Partitioning%20II/) | Hard |
 | 257 | [Binary Tree Paths](./String/Binary%20Tree%20Paths/) | Easy |
+| 316 | [Remove Duplicate Letters](./String/Remove%20Duplicate%20Letters/) | Medium |
+| 796 | [Rotate String](./String/Rotate%20String/) | Easy |
+| 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
 | 2390 | [Removing Stars From a String](./String/Removing%20Stars%20From%20a%20String/) | Medium |
 
 </details>
@@ -249,10 +262,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 5 | [Longest Palindromic Substring](./Two%20Pointers/Longest%20Palindromic%20Substring/) | Medium |
 | 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
 | 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
+| 151 | [Reverse Words in a String](./Two%20Pointers/Reverse%20Words%20in%20a%20String/) | Medium |
 | 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
 | 345 | [Reverse Vowels of a String](./Two%20Pointers/Reverse%20Vowels%20of%20a%20String/) | Easy |
 | 392 | [Is Subsequence](./Two%20Pointers/Is%20Subsequence/) | Easy |
 | 443 | [String Compression](./Two%20Pointers/String%20Compression/) | Medium |
+| 541 | [Reverse String II](./Two%20Pointers/Reverse%20String%20II/) | Easy |
 
 </details>
 

@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T04:14:24.559Z",
+  "lastUpdated": "2026-07-25T04:14:36.719Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2771,6 +2771,294 @@
               "runtime": "2 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Add Strings/"
+            }
+          }
+        },
+        "reverse-words-in-a-string": {
+          "questionId": "151",
+          "title": "Reverse Words in a String",
+          "titleSlug": "reverse-words-in-a-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952876718,
+              "runtime": "7 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Words in a String/"
+            }
+          }
+        },
+        "longest-valid-parentheses": {
+          "questionId": "32",
+          "title": "Longest Valid Parentheses",
+          "titleSlug": "longest-valid-parentheses",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952876718,
+              "runtime": "4 ms",
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/String/Longest Valid Parentheses/"
+            }
+          }
+        },
+        "3sum-closest": {
+          "questionId": "16",
+          "title": "3Sum Closest",
+          "titleSlug": "3sum-closest",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952876718,
+              "runtime": "14 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/Array/3Sum Closest/"
+            }
+          }
+        },
+        "number-of-atoms": {
+          "questionId": "726",
+          "title": "Number of Atoms",
+          "titleSlug": "number-of-atoms",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Stack",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952876718,
+              "runtime": "5 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Hash Table/Number of Atoms/"
+            }
+          }
+        },
+        "container-with-most-water": {
+          "questionId": "11",
+          "title": "Container With Most Water",
+          "titleSlug": "container-with-most-water",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952876718,
+              "runtime": "5 ms",
+              "memory": "57.9 MB",
+              "githubPath": "LeetCode/Array/Container With Most Water/"
+            }
+          }
+        },
+        "jump-game-ii": {
+          "questionId": "45",
+          "title": "Jump Game II",
+          "titleSlug": "jump-game-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952876718,
+              "runtime": "1 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Array/Jump Game II/"
+            }
+          }
+        },
+        "reverse-string-ii": {
+          "questionId": "541",
+          "title": "Reverse String II",
+          "titleSlug": "reverse-string-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952876718,
+              "runtime": "1 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse String II/"
+            }
+          }
+        },
+        "remove-duplicate-letters": {
+          "questionId": "316",
+          "title": "Remove Duplicate Letters",
+          "titleSlug": "remove-duplicate-letters",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Stack",
+            "Greedy",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952876718,
+              "runtime": "3 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/String/Remove Duplicate Letters/"
+            }
+          }
+        },
+        "check-if-number-has-equal-digit-count-and-digit-value": {
+          "questionId": "2283",
+          "title": "Check if Number Has Equal Digit Count and Digit Value",
+          "titleSlug": "check-if-number-has-equal-digit-count-and-digit-value",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952876718,
+              "runtime": "1 ms",
+              "memory": "41.8 MB",
+              "githubPath": "LeetCode/Hash Table/Check if Number Has Equal Digit Count and Digit Value/"
+            }
+          }
+        },
+        "sort-characters-by-frequency": {
+          "questionId": "451",
+          "title": "Sort Characters By Frequency",
+          "titleSlug": "sort-characters-by-frequency",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Bucket Sort",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952876718,
+              "runtime": "14 ms",
+              "memory": "46.1 MB",
+              "githubPath": "LeetCode/Hash Table/Sort Characters By Frequency/"
+            }
+          }
+        },
+        "longest-word-in-dictionary": {
+          "questionId": "720",
+          "title": "Longest Word in Dictionary",
+          "titleSlug": "longest-word-in-dictionary",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Trie",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952876719,
+              "runtime": "7 ms",
+              "memory": "44.2 MB",
+              "githubPath": "LeetCode/Array/Longest Word in Dictionary/"
+            }
+          }
+        },
+        "rotate-string": {
+          "questionId": "796",
+          "title": "Rotate String",
+          "titleSlug": "rotate-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "String Matching"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952876719,
+              "runtime": "0 ms",
+              "memory": "41.2 MB",
+              "githubPath": "LeetCode/String/Rotate String/"
+            }
+          }
+        },
+        "first-unique-character-in-a-string": {
+          "questionId": "387",
+          "title": "First Unique Character in a String",
+          "titleSlug": "first-unique-character-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Queue",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952876719,
+              "runtime": "32 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Hash Table/First Unique Character in a String/"
+            }
+          }
+        },
+        "remove-all-adjacent-duplicates-in-string": {
+          "questionId": "1047",
+          "title": "Remove All Adjacent Duplicates In String",
+          "titleSlug": "remove-all-adjacent-duplicates-in-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952876719,
+              "runtime": "4 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/String/Remove All Adjacent Duplicates In String/"
+            }
+          }
+        },
+        "plus-one": {
+          "questionId": "66",
+          "title": "Plus One",
+          "titleSlug": "plus-one",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952876719,
+              "runtime": "0 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Array/Plus One/"
             }
           }
         }
