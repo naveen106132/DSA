@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T04:13:07.704Z",
+  "lastUpdated": "2026-07-25T04:13:21.460Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -915,6 +915,257 @@
               "runtime": "0 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Tree/Same Tree/"
+            }
+          }
+        },
+        "gas-station": {
+          "questionId": "134",
+          "title": "Gas Station",
+          "titleSlug": "gas-station",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952801460,
+              "runtime": "2 ms",
+              "memory": "119.1 MB",
+              "githubPath": "LeetCode/Array/Gas Station/"
+            }
+          }
+        },
+        "evaluate-reverse-polish-notation": {
+          "questionId": "150",
+          "title": "Evaluate Reverse Polish Notation",
+          "titleSlug": "evaluate-reverse-polish-notation",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952801460,
+              "runtime": "6 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Array/Evaluate Reverse Polish Notation/"
+            }
+          }
+        },
+        "find-peak-element": {
+          "questionId": "162",
+          "title": "Find Peak Element",
+          "titleSlug": "find-peak-element",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952801460,
+              "runtime": "0 ms",
+              "memory": "44.1 MB",
+              "githubPath": "LeetCode/Array/Find Peak Element/"
+            }
+          }
+        },
+        "summary-ranges": {
+          "questionId": "228",
+          "title": "Summary Ranges",
+          "titleSlug": "summary-ranges",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952801460,
+              "runtime": "3 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Array/Summary Ranges/"
+            }
+          }
+        },
+        "maximal-square": {
+          "questionId": "221",
+          "title": "Maximal Square",
+          "titleSlug": "maximal-square",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952801460,
+              "runtime": "6 ms",
+              "memory": "71 MB",
+              "githubPath": "LeetCode/Array/Maximal Square/"
+            }
+          }
+        },
+        "largest-number": {
+          "questionId": "179",
+          "title": "Largest Number",
+          "titleSlug": "largest-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "String",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952801460,
+              "runtime": "7 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Array/Largest Number/"
+            }
+          }
+        },
+        "surrounded-regions": {
+          "questionId": "130",
+          "title": "Surrounded Regions",
+          "titleSlug": "surrounded-regions",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union-Find",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952801460,
+              "runtime": "2 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Array/Surrounded Regions/"
+            }
+          }
+        },
+        "maximum-product-of-word-lengths": {
+          "questionId": "318",
+          "title": "Maximum Product of Word Lengths",
+          "titleSlug": "maximum-product-of-word-lengths",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "String",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952801460,
+              "runtime": "10 ms",
+              "memory": "49.6 MB",
+              "githubPath": "LeetCode/Array/Maximum Product of Word Lengths/"
+            }
+          }
+        },
+        "palindrome-partitioning": {
+          "questionId": "131",
+          "title": "Palindrome Partitioning",
+          "titleSlug": "palindrome-partitioning",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952801460,
+              "runtime": "7 ms",
+              "memory": "65.1 MB",
+              "githubPath": "LeetCode/String/Palindrome Partitioning/"
+            }
+          }
+        },
+        "longest-consecutive-sequence": {
+          "questionId": "128",
+          "title": "Longest Consecutive Sequence",
+          "titleSlug": "longest-consecutive-sequence",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Union-Find"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952801460,
+              "runtime": "37 ms",
+              "memory": "95.6 MB",
+              "githubPath": "LeetCode/Array/Longest Consecutive Sequence/"
+            }
+          }
+        },
+        "binary-tree-maximum-path-sum": {
+          "questionId": "124",
+          "title": "Binary Tree Maximum Path Sum",
+          "titleSlug": "binary-tree-maximum-path-sum",
+          "difficulty": "Hard",
+          "tags": [
+            "Dynamic Programming",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952801460,
+              "runtime": "1 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Dynamic Programming/Binary Tree Maximum Path Sum/"
+            }
+          }
+        },
+        "populating-next-right-pointers-in-each-node-ii": {
+          "questionId": "117",
+          "title": "Populating Next Right Pointers in Each Node II",
+          "titleSlug": "populating-next-right-pointers-in-each-node-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952801460,
+              "runtime": "2 ms",
+              "memory": "46.1 MB",
+              "githubPath": "LeetCode/Linked List/Populating Next Right Pointers in Each Node II/"
+            }
+          }
+        },
+        "populating-next-right-pointers-in-each-node": {
+          "questionId": "116",
+          "title": "Populating Next Right Pointers in Each Node",
+          "titleSlug": "populating-next-right-pointers-in-each-node",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952801460,
+              "runtime": "0 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Linked List/Populating Next Right Pointers in Each Node/"
             }
           }
         }
