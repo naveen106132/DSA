@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Naveen__2006?theme=tokyonight&show=graph,recent&v=1784952885684" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Naveen__2006?theme=tokyonight&show=graph,recent&v=1784952889481" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -193,6 +193,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 70 | [Climbing Stairs](./Math/Climbing%20Stairs/) | Easy |
 | 89 | [Gray Code](./Math/Gray%20Code/) | Medium |
 | 96 | [Unique Binary Search Trees](./Math/Unique%20Binary%20Search%20Trees/) | Medium |
+| 292 | [Nim Game](./Math/Nim%20Game/) | Easy |
 | 343 | [Integer Break](./Math/Integer%20Break/) | Medium |
 | 405 | [Convert a Number to Hexadecimal](./Math/Convert%20a%20Number%20to%20Hexadecimal/) | Easy |
 | 415 | [Add Strings](./Math/Add%20Strings/) | Easy |

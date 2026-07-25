@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T04:14:45.682Z",
+  "lastUpdated": "2026-07-25T04:14:49.479Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3242,6 +3242,25 @@
               "runtime": "41 ms",
               "memory": "45 MB",
               "githubPath": "LeetCode/Math/Palindrome Number/"
+            }
+          }
+        },
+        "nim-game": {
+          "questionId": "292",
+          "title": "Nim Game",
+          "titleSlug": "nim-game",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Brainteaser",
+            "Game Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952889479,
+              "runtime": "0 ms",
+              "memory": "40.4 MB",
+              "githubPath": "LeetCode/Math/Nim Game/"
             }
           }
         }
