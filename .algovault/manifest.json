@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T04:14:13.703Z",
+  "lastUpdated": "2026-07-25T04:14:24.559Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2491,6 +2491,286 @@
               "runtime": "116 ms",
               "memory": "41 MB",
               "githubPath": "LeetCode/Array/Sudoku Solver/"
+            }
+          }
+        },
+        "longest-palindromic-substring": {
+          "questionId": "5",
+          "title": "Longest Palindromic Substring",
+          "titleSlug": "longest-palindromic-substring",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952864558,
+              "runtime": "530 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
+            }
+          }
+        },
+        "find-first-and-last-position-of-element-in-sorted-array": {
+          "questionId": "34",
+          "title": "Find First and Last Position of Element in Sorted Array",
+          "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952864558,
+              "runtime": "0 ms",
+              "memory": "46.2 MB",
+              "githubPath": "LeetCode/Array/Find First and Last Position of Element in Sorted Array/"
+            }
+          }
+        },
+        "search-in-rotated-sorted-array": {
+          "questionId": "33",
+          "title": "Search in Rotated Sorted Array",
+          "titleSlug": "search-in-rotated-sorted-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952864559,
+              "runtime": "0 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Array/Search in Rotated Sorted Array/"
+            }
+          }
+        },
+        "reverse-nodes-in-k-group": {
+          "questionId": "25",
+          "title": "Reverse Nodes in k-Group",
+          "titleSlug": "reverse-nodes-in-k-group",
+          "difficulty": "Hard",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952864559,
+              "runtime": "0 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Linked List/Reverse Nodes in k-Group/"
+            }
+          }
+        },
+        "letter-combinations-of-a-phone-number": {
+          "questionId": "17",
+          "title": "Letter Combinations of a Phone Number",
+          "titleSlug": "letter-combinations-of-a-phone-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952864559,
+              "runtime": "4 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Hash Table/Letter Combinations of a Phone Number/"
+            }
+          }
+        },
+        "divide-two-integers": {
+          "questionId": "29",
+          "title": "Divide Two Integers",
+          "titleSlug": "divide-two-integers",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952864559,
+              "runtime": "1 ms",
+              "memory": "41 MB",
+              "githubPath": "LeetCode/Math/Divide Two Integers/"
+            }
+          }
+        },
+        "substring-with-concatenation-of-all-words": {
+          "questionId": "30",
+          "title": "Substring with Concatenation of All Words",
+          "titleSlug": "substring-with-concatenation-of-all-words",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952864559,
+              "runtime": "10 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Hash Table/Substring with Concatenation of All Words/"
+            }
+          }
+        },
+        "merge-k-sorted-lists": {
+          "questionId": "23",
+          "title": "Merge k Sorted Lists",
+          "titleSlug": "merge-k-sorted-lists",
+          "difficulty": "Hard",
+          "tags": [
+            "Linked List",
+            "Divide and Conquer",
+            "Heap (Priority Queue)",
+            "Merge Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952864559,
+              "runtime": "4 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Linked List/Merge k Sorted Lists/"
+            }
+          }
+        },
+        "median-of-two-sorted-arrays": {
+          "questionId": "4",
+          "title": "Median of Two Sorted Arrays",
+          "titleSlug": "median-of-two-sorted-arrays",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Divide and Conquer"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952864559,
+              "runtime": "4 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
+            }
+          }
+        },
+        "add-two-numbers": {
+          "questionId": "2",
+          "title": "Add Two Numbers",
+          "titleSlug": "add-two-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952864559,
+              "runtime": "1 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Linked List/Add Two Numbers/"
+            }
+          }
+        },
+        "valid-anagram": {
+          "questionId": "242",
+          "title": "Valid Anagram",
+          "titleSlug": "valid-anagram",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952864559,
+              "runtime": "3 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Hash Table/Valid Anagram/"
+            }
+          }
+        },
+        "4sum": {
+          "questionId": "18",
+          "title": "4Sum",
+          "titleSlug": "4sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952864559,
+              "runtime": "19 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Array/4Sum/"
+            }
+          }
+        },
+        "single-number": {
+          "questionId": "136",
+          "title": "Single Number",
+          "titleSlug": "single-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952864559,
+              "runtime": "1 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Array/Single Number/"
+            }
+          }
+        },
+        "isomorphic-strings": {
+          "questionId": "205",
+          "title": "Isomorphic Strings",
+          "titleSlug": "isomorphic-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952864559,
+              "runtime": "13 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Hash Table/Isomorphic Strings/"
+            }
+          }
+        },
+        "add-strings": {
+          "questionId": "415",
+          "title": "Add Strings",
+          "titleSlug": "add-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952864559,
+              "runtime": "2 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Math/Add Strings/"
             }
           }
         }
