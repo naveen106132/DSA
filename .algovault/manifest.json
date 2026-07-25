@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T04:14:02.294Z",
+  "lastUpdated": "2026-07-25T04:14:13.703Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2192,6 +2192,305 @@
               "runtime": "100 ms",
               "memory": "101.3 MB",
               "githubPath": "LeetCode/Array/Simple Bank System/"
+            }
+          }
+        },
+        "multiply-strings": {
+          "questionId": "43",
+          "title": "Multiply Strings",
+          "titleSlug": "multiply-strings",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952853702,
+              "runtime": "3 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Math/Multiply Strings/"
+            }
+          }
+        },
+        "generate-parentheses": {
+          "questionId": "22",
+          "title": "Generate Parentheses",
+          "titleSlug": "generate-parentheses",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952853702,
+              "runtime": "1 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/String/Generate Parentheses/"
+            }
+          }
+        },
+        "rotate-image": {
+          "questionId": "48",
+          "title": "Rotate Image",
+          "titleSlug": "rotate-image",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952853702,
+              "runtime": "0 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Array/Rotate Image/"
+            }
+          }
+        },
+        "string-to-integer-atoi": {
+          "questionId": "8",
+          "title": "String to Integer (atoi)",
+          "titleSlug": "string-to-integer-atoi",
+          "difficulty": "Medium",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952853703,
+              "runtime": "1 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/String/String to Integer (atoi)/"
+            }
+          }
+        },
+        "reverse-integer": {
+          "questionId": "7",
+          "title": "Reverse Integer",
+          "titleSlug": "reverse-integer",
+          "difficulty": "Medium",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952853703,
+              "runtime": "1 ms",
+              "memory": "41.3 MB",
+              "githubPath": "LeetCode/Math/Reverse Integer/"
+            }
+          }
+        },
+        "zigzag-conversion": {
+          "questionId": "6",
+          "title": "Zigzag Conversion",
+          "titleSlug": "zigzag-conversion",
+          "difficulty": "Medium",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952853703,
+              "runtime": "3 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/String/Zigzag Conversion/"
+            }
+          }
+        },
+        "longest-substring-without-repeating-characters": {
+          "questionId": "3",
+          "title": "Longest Substring Without Repeating Characters",
+          "titleSlug": "longest-substring-without-repeating-characters",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952853703,
+              "runtime": "102 ms",
+              "memory": "46 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
+            }
+          }
+        },
+        "integer-to-roman": {
+          "questionId": "12",
+          "title": "Integer to Roman",
+          "titleSlug": "integer-to-roman",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952853703,
+              "runtime": "5 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Hash Table/Integer to Roman/"
+            }
+          }
+        },
+        "permutations": {
+          "questionId": "46",
+          "title": "Permutations",
+          "titleSlug": "permutations",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952853703,
+              "runtime": "1 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Array/Permutations/"
+            }
+          }
+        },
+        "trapping-rain-water": {
+          "questionId": "42",
+          "title": "Trapping Rain Water",
+          "titleSlug": "trapping-rain-water",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Dynamic Programming",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952853703,
+              "runtime": "1 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Array/Trapping Rain Water/"
+            }
+          }
+        },
+        "combination-sum": {
+          "questionId": "39",
+          "title": "Combination Sum",
+          "titleSlug": "combination-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952853703,
+              "runtime": "2 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Array/Combination Sum/"
+            }
+          }
+        },
+        "valid-sudoku": {
+          "questionId": "36",
+          "title": "Valid Sudoku",
+          "titleSlug": "valid-sudoku",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952853703,
+              "runtime": "1 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Array/Valid Sudoku/"
+            }
+          }
+        },
+        "regular-expression-matching": {
+          "questionId": "10",
+          "title": "Regular Expression Matching",
+          "titleSlug": "regular-expression-matching",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952853703,
+              "runtime": "1 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/String/Regular Expression Matching/"
+            }
+          }
+        },
+        "wildcard-matching": {
+          "questionId": "44",
+          "title": "Wildcard Matching",
+          "titleSlug": "wildcard-matching",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Greedy",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952853703,
+              "runtime": "38 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/String/Wildcard Matching/"
+            }
+          }
+        },
+        "first-missing-positive": {
+          "questionId": "41",
+          "title": "First Missing Positive",
+          "titleSlug": "first-missing-positive",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952853703,
+              "runtime": "1 ms",
+              "memory": "57.5 MB",
+              "githubPath": "LeetCode/Array/First Missing Positive/"
+            }
+          }
+        },
+        "sudoku-solver": {
+          "questionId": "37",
+          "title": "Sudoku Solver",
+          "titleSlug": "sudoku-solver",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Backtracking",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784952853703,
+              "runtime": "116 ms",
+              "memory": "41 MB",
+              "githubPath": "LeetCode/Array/Sudoku Solver/"
             }
           }
         }

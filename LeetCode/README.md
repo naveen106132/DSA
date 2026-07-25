@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Naveen__2006?theme=tokyonight&show=graph,recent&v=1784952842297" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Naveen__2006?theme=tokyonight&show=graph,recent&v=1784952853705" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -19,8 +19,15 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
 | 31 | [Next Permutation](./Array/Next%20Permutation/) | Medium |
+| 36 | [Valid Sudoku](./Array/Valid%20Sudoku/) | Medium |
+| 37 | [Sudoku Solver](./Array/Sudoku%20Solver/) | Hard |
+| 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
 | 40 | [Combination Sum II](./Array/Combination%20Sum%20II/) | Medium |
+| 41 | [First Missing Positive](./Array/First%20Missing%20Positive/) | Hard |
+| 42 | [Trapping Rain Water](./Array/Trapping%20Rain%20Water/) | Hard |
+| 46 | [Permutations](./Array/Permutations/) | Medium |
 | 47 | [Permutations II](./Array/Permutations%20II/) | Medium |
+| 48 | [Rotate Image](./Array/Rotate%20Image/) | Medium |
 | 49 | [Group Anagrams](./Array/Group%20Anagrams/) | Medium |
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
 | 54 | [Spiral Matrix](./Array/Spiral%20Matrix/) | Medium |
@@ -106,6 +113,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
+| 12 | [Integer to Roman](./Hash%20Table/Integer%20to%20Roman/) | Medium |
 | 76 | [Minimum Window Substring](./Hash%20Table/Minimum%20Window%20Substring/) | Hard |
 | 126 | [Word Ladder II](./Hash%20Table/Word%20Ladder%20II/) | Hard |
 | 127 | [Word Ladder](./Hash%20Table/Word%20Ladder/) | Hard |
@@ -142,6 +151,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
+| 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
 | 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
 | 60 | [Permutation Sequence](./Math/Permutation%20Sequence/) | Hard |
 | 62 | [Unique Paths](./Math/Unique%20Paths/) | Medium |
@@ -177,8 +188,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
+| 8 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/) | Medium |
+| 10 | [Regular Expression Matching](./String/Regular%20Expression%20Matching/) | Hard |
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
+| 22 | [Generate Parentheses](./String/Generate%20Parentheses/) | Medium |
 | 38 | [Count and Say](./String/Count%20and%20Say/) | Medium |
+| 44 | [Wildcard Matching](./String/Wildcard%20Matching/) | Hard |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 65 | [Valid Number](./String/Valid%20Number/) | Hard |
 | 71 | [Simplify Path](./String/Simplify%20Path/) | Medium |
